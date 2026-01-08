@@ -1,0 +1,5 @@
+| Streamlit| A Python library to create web applications | Used to build the user interface with sliders, buttons, charts, and reports |
+| gTTS     | A text-to-speech library                    | Used to convert recommendations into audio in multiple languages            |
+| Pandas   | A data handling library                     | Used to store, organize, and display data in table format                   |
+| Altair   | A data visualization library                | Used to create bar and area charts for comparing coastal parameters         |
+| Plotly   | An interactive visualization library        | Used to create pie charts and radar charts to show percentage distribution  |
