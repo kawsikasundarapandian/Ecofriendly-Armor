@@ -1,0 +1,66 @@
+User Input
+    ↓
+Data Processing
+    ↓
+Decision Logic
+    ↓
+Recommendation
+    ↓
+Charts + Audio + Report
+
+
+1.Start Application
+The user opens the EcoArmor web application using Streamlit.
+
+2.Theme & Language Selection
+The user selects the preferred theme (Light/Dark) and language from the options provided.
+
+3.User Input Collection
+i.The user enters coastal parameters:
+
+ii.Average wave height
+
+iii.Cyclone frequency
+
+iv.Coastal soil type
+
+v.Environmental priority
+
+4.Data Processing
+The system converts user inputs into numeric values and percentage scores for analysis.
+
+5.Decision Logic Execution
+Based on predefined rules and conditions, the system selects the most suitable eco-friendly armor unit.
+
+6.Recommendation Generation
+The system generates:
+
+Armor unit recommendation
+
+Explanation for selection
+
+7.Visualization
+The processed data is displayed using:
+
+Bar chart
+
+Pie chart
+
+Area chart
+
+Radar chart
+
+8.Audio Output
+The recommendation explanation is converted into audio in the selected language.
+
+9.Report Display
+The final output is shown as:
+
+Input summary
+
+Recommendation table
+
+Visual charts
+
+10.End / User Review
+The user reviews the results and can modify inputs to get a new recommendation.
